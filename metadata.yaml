@@ -1,0 +1,39 @@
+_repo: Vertellingen_52415
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wiegman, Jan
+    alias: Wiegman, Johannes Petrus Antonius
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '6891'
+    url: http://www.gutenberg.org/2009/agents/6891
+creator:
+  author:
+    agent_name: Hermanna
+    aliases:
+    - Schlüter, Alberdina Hermanna
+    - Schluter, Alberdina Hermanna
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '6890'
+    url: http://www.gutenberg.org/2009/agents/6890
+description: ''
+gutenberg_issued: '2016-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52415'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Dutch'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Pim -- De boon -- De nieuwe slee -- Er zit zoo'n stout, klein meisje
+  naast me op school -- Prul -- Een vacantiemiddag -- Karel's horloge  -- Grappige
+  appeltjes -- Jan's verrassing -- Als de eerste sneeuw valt -- 't allermooiste present
+  -- De vriendjes.
+title: Vertellingen
+url: http://www.gutenberg.org/ebooks/52415
